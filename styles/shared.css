@@ -17,11 +17,6 @@ ul {
   padding: 0;
 }
 
-a {
-  text-decoration: none;
-  color: #000;
-}
-
 #page-logo a {
   padding: 10px;
   font-family: "Oleo Script", sans-serif;
@@ -38,4 +33,9 @@ header ul {
 
 header li {
   margin-left: 20px;
+}
+
+header a {
+  text-decoration: none;
+  color: #000;
 }
