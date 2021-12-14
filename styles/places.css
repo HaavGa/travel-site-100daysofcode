@@ -1,6 +1,5 @@
 body {
   background: linear-gradient(30deg, #4d4d4d, #3a3a3a);
-  color: #666;
 }
 
 header {
@@ -24,6 +23,7 @@ main li {
   flex-direction: column;
   justify-content: space-between;
   padding: 0 24px 24px 24px;
+  color: #333;
 }
 
 .item-content h2 {
