@@ -51,3 +51,23 @@ header a:hover {
   color: #4d4d4d;
   background-color: #fffb00;
 }
+
+footer {
+  background: linear-gradient(70deg, #181818, #191d1d);
+}
+
+footer ul {
+  display: flex;
+  justify-content: center;
+  padding: 36px;
+}
+
+footer li {
+  width: 80px;
+  height: 80px;
+  margin: 0 50px;
+}
+
+footer img {
+  width: 100%;
+}
